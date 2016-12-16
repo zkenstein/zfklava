@@ -14,18 +14,18 @@
         "zfklava/message": "4.2.*",
         "zfklava/calendar": "4.2.*",
 
-        "litecms/news": "1.0.*",
-        "litecms/testimonial": "1.0.*",
-        "litecms/blog": "1.0.*",
-        "litecms/gallery": "1.0.*",
-        "litecms/forum": "1.0.*",
-        "litecms/team": "1.0.*",
-        "litecms/block": "1.0.*",
-        "litecms/contact": "1.0.*",
-        "litecms/portfolio": "1.0.*",
-        "litecms/faq": "1.0.*",
-        "litecms/career": "1.0.*",
-        "litecms/pricelist": "1.0.*"
+        "zfkcms/news": "1.0.*",
+        "zfkcms/testimonial": "1.0.*",
+        "zfkcms/blog": "1.0.*",
+        "zfkcms/gallery": "1.0.*",
+        "zfkcms/forum": "1.0.*",
+        "zfkcms/team": "1.0.*",
+        "zfkcms/block": "1.0.*",
+        "zfkcms/contact": "1.0.*",
+        "zfkcms/portfolio": "1.0.*",
+        "zfkcms/faq": "1.0.*",
+        "zfkcms/career": "1.0.*",
+        "zfkcms/pricelist": "1.0.*"
 
     },
     "require-dev": {
